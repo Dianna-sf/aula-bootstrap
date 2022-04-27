@@ -1,0 +1,28 @@
+body{
+    font-kerning: auto;
+}
+
+.navbar {
+    background-color: peachpuff;
+}
+.quem-somos{
+    background-color: #ed9d8c;
+    color: #29031a;
+}
+.margin{
+    padding-bottom: 50px;
+padding-top: 10px;
+}
+.parceiros{
+    background-color: orangered;
+    color: #29031a;
+}
+.servicos{
+    background-color: #ed9d8c;
+    color: #29031a;
+}
+
+.bg-footer{
+    background-color: peachpuff;
+    color: #29031a;
+}
